@@ -3,7 +3,16 @@
     margin: auto 0;
     padding: 0px;
     height: auto;
-
-
+}
+.top_lane{
+    height: 300px;
+    width: auto;
+    background-color: rosybrown;
+    
+}
+.menu_top_lane{
+    width: 300px;
+    height: auto;
+    color: red;
 
 }
